@@ -6,9 +6,9 @@ It features a **metadata catalog** (GeoNetwork 2.10), an **OGC server** (GeoServ
 
 ## Releases
 
-A new release is published every 6 months and is supported during 12 months. Stable versions are named by their release date, eg 14.06 was published in June 2014.  
+A new release is published every 6 months and is supported during 12 months. Stable versions are named by their release date, e.g. version 14.06 was published in June 2014.  
 
-Before downloading, you might be interested in the [release notes](RELEASE_NOTES.md) and the [kanban board](https://huboard.com/georchestra/georchestra) we're using to manage issues.
+Before downloading, you might be interested in the [release notes](RELEASE_NOTES.md) and the [kanban board](https://huboard.com/georchestra/georchestra) which we're using to manage issues.
 
 ## Download
 
@@ -28,7 +28,7 @@ To install geOrchestra, you will have to:
 There's also a short list of [optimizations](doc/optimizations.md) and [good practices](doc/good_practices.md).
 
 The minimum system requirement is 2 cores and 4Gb RAM.  
-More is better !
+More is better!
 
 ## Community
 
